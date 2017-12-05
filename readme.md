@@ -1,6 +1,7 @@
 # How to use OLED model in Arduino
 
 Demo with Arduino UNO
+0.96 inch use SSD1306 driver chip, it's include I2C or SPI interface, and internal charge-pump.
 
 ## Step 1: Connect OLED display to Arduino:
 - VCC --> 3.3v or 5v
@@ -10,7 +11,7 @@ Demo with Arduino UNO
 
 
 ## Step 2: Install this library
-- 0.96 inch use SSD1306 driver chip(it's include I2C or SPI interface, and internal charge- pump). Copy "Adafruit_SSD1306" and "Adafruit_GFX" this two folder into "X:\Documents\Arduino\libraries".
+- Copy "Adafruit_SSD1306" and "Adafruit_GFX" this two folder into "X:\Documents\Arduino\libraries".
 
 - In order to reduce the pin number, we use a hardware RESET system. Before init OLED device, delay more than 10ms is must needed.
 
