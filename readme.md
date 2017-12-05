@@ -1,6 +1,7 @@
 # How to use OLED model in Arduino
 
 Demo with Arduino UNO
+
 0.96 inch use SSD1306 driver chip, it's include I2C or SPI interface, and internal charge-pump.
 
 ## Step 1: Connect OLED display to Arduino:
