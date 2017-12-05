@@ -19,6 +19,9 @@ Demo with Arduino UNO
 ## Step 3: Run demo in file "Adafruit_SSD1306\examples" and download into Arduino
 Now, if without anyproblem, the OLED will run.
 
+## Issue/Bug report template
+Before reporting an issue, make sure you've searched for similar one that was already created. [Click here](https://github.com/Heltec-Aaron-Lee/heltec0.96OLED/issues).
+
 
 # Summary of common problems
 
